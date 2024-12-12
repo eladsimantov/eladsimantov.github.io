@@ -53,11 +53,11 @@ social-network-links:
   email: "contact@elad.simplelogin.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: eladsimantov
-#  linkedin: eladsimantov
+ linkedin: eladsimantov
 
-# If you want your website to generate an RSS feed, provide a description
-# The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+# # If you want your website to generate an RSS feed, provide a description
+# # The URL for the feed will be https://<your_website>/feed.xml
+# rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
@@ -71,14 +71,14 @@ share-links-active:
 # Add the website title to the title of every page
 title-on-all-pages: true
 
-# Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 50
+# # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
+# excerpt_length: 50
 
-# Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: true
+# # Whether or not to show an excerpt for every blog post in the feed page
+# feed_show_excerpt: true
 
-# Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: true
+# # Whether or not to show a list of tags below each post preview in the feed page
+# feed_show_tags: true
 
 # Add a search button to the navbar
 post_search: true
