@@ -21,13 +21,8 @@ author: Elad Siman Tov
 
 navbar-links:
   About Me: "aboutme"
-  Projects:
-    - Projects: "projects"
-    - Kinematics Dynamics and Control for Robotics: "https://github.com/eladsimantov/KDCR"
-    - Rehabilitation Biomechanics: "https://github.com/eladsimantov/Rehabilitation-Biomechanics"
-    - Robot Navigation: "https://github.com/eladsimantov/Robot-Navigation"
-    - Applied Machine Learning for Engineers: "https://github.com/eladsimantov/Applied-ML-For-Engineers"
-    - Learning Based Inertial Sensing: "https://github.com/eladsimantov/Learning-Based-Inertial-Sensing"
+  Projects: "projects"
+  Research: "research"
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
     # - Learn markdown: "https://www.markdowntutorial.com/"
   # Author's home: "https://deanattali.com"
