@@ -22,7 +22,7 @@ author: Elad Siman Tov
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - Projects: "projects.md"
+    - Projects: "projects"
     - Kinematics Dynamics and Control for Robotics: "https://github.com/eladsimantov/KDCR"
     - Rehabilitation Biomechanics: "https://github.com/eladsimantov/Rehabilitation-Biomechanics"
     - Robot Navigation: "https://github.com/eladsimantov/Robot-Navigation"
