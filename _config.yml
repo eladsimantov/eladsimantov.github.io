@@ -21,10 +21,15 @@ author: Elad Siman Tov
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Projects:
+    - Kinematics Dynamics and Control for Robotics: "https://github.com/eladsimantov/KDCR"
+    - Rehabilitation Biomechanics: "https://github.com/eladsimantov/Rehabilitation-Biomechanics"
+    - Robot Navigation: "https://github.com/eladsimantov/Robot-Navigation"
+    - Applied Machine Learning for Engineers: "https://github.com/eladsimantov/Applied-ML-For-Engineers"
+    - Learning Based Inertial Sensing: "https://github.com/eladsimantov/Learning-Based-Inertial-Sensing"
+    # - Beautiful Jekyll: "https://beautifuljekyll.com"
+    # - Learn markdown: "https://www.markdowntutorial.com/"
+  # Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -51,9 +56,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "contact@elad.simplelogin.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: eladsimantov
- linkedin: eladsimantov
+  linkedin: eladsimantov
 
 # # If you want your website to generate an RSS feed, provide a description
 # # The URL for the feed will be https://<your_website>/feed.xml
