@@ -1,10 +1,8 @@
 ---
 layout: page
 title: Projects
+subtitle: A few projects I've worked on
 ---
-
-## Projects
-Here are a few projects I've worked on:
 
 ### Kinematics Dynamics and Control of Robots (KDCR)
 - **Description**: Kinematics Dynamics and Control of Robots course work. It included trajectory planning and control of serial and parallel robots. [View on Github](https://github.com/eladsimantov/KDCR/)
