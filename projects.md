@@ -23,7 +23,9 @@ subtitle: A few projects I've worked on
 - **Technologies**: Python, Pytorch, PINNs
 
 
-### Inertial Navigation System (INS)
-- **In progress**: [View on Github](https://github.com/eladsimantov/Learning-Based-Inertial-Sensing)
+#### Learning Based Inertial Sensing
+- **Description**: A Convolutional Neural Network gait phase estimator based solely on IMU measurements (offline). [View on Github](https://github.com/eladsimantov/Learning-Based-Inertial-Sensing)
+- **Technologies**: CNN, Pytorch, IMUs.
+
 
 
