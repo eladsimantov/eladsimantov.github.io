@@ -10,5 +10,5 @@ author: Elad Siman Tov, Nili E. Krausz
 {: .box-success}
 This post is dedicated to those of you who didn't get a chance to chat with me at the poster session.
 
-[text](../assets/img/Elad_Poster_Altered_Kinematics_Final.pdf)
-
+You may find my poster [here](../assets/img/Elad_Poster_Altered_Kinematics_Final.pdf).
+You can also read the abstract for more information [here](../assets/files/abstract.pdf).
